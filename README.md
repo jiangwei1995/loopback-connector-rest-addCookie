@@ -1,4 +1,4 @@
-# LoopBack REST Connector
+# LoopBack REST Connector add Cookie
 
 LoopBack REST connector allows Node.js application to interact with HTTP REST APIs using a template driven approach.
 
